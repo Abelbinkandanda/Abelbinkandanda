@@ -2,7 +2,7 @@
   <source media="(max-width: 700px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abelbinkandanda/Abelbinkandanda/main/assets/hero-mobile-light.svg" />
   <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/Abelbinkandanda/Abelbinkandanda/main/assets/hero-mobile.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abelbinkandanda/Abelbinkandanda/main/assets/hero-light.svg" />
-  <img src="assets/hero.svg" width="100%" alt="Abel Ilunga Kandanda, Information Systems Specialist at MSF France. A satellite link lights up field sites in Goma, Butembo, Beni and Isiro." />
+  <img src="assets/hero.svg" width="100%" alt="Abel Ilunga Kandanda, Information Systems Specialist at MSF France. A satellite link lights up field sites across DR Congo: Goma, Rutshuru, Bambo, Kibirizi, Butembo, Beni, Isiro, Kinshasa and Lubumbashi." />
 </picture>
 
 I run networks, security and IT for humanitarian missions in DR Congo. Often on sites built in days. Far from any fiber.
