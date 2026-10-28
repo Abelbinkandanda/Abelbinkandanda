@@ -1,34 +1,26 @@
-### Hey all I'm Abel Bin Kandanda 👋
-<h3> 👨🏻‍💻 About Me </h3>
+### Hi, I'm Abel Ilunga Kandanda 👋
 
-- 🤔 &nbsp; Excited when it comes to reading and getting challenged
-- 🎓 &nbsp; Software Engineer graduated at ISIG - Goma 
-- 🌱 &nbsp; Learning how to build strong backend applications and Machine Learning
-- ✍️ &nbsp; Got a hobby on Chess 
+**Information Systems Specialist at MSF France, DR Congo.** I keep networks, security and IT tools running for humanitarian missions, often on sites set up in a few days, far from any fiber.
 
-<h3>🛠 Tech Stack</h3>
+- 🌍 Based in Goma, DRC. Open to missions and freelance work
+- 📡 Field connectivity: Starlink, VSAT, multi-WAN failover, VHF/UHF radio
+- 🔐 Network & security: FortiGate, IPsec site-to-site VPN, VLANs, UniFi, Meraki, MikroTik
+- ☁️ Microsoft 365, Entra ID, SharePoint, Power Automate, Azure
+- 🛠 Small internal tools when spreadsheets stop being enough: HTML/CSS, JavaScript, PHP, Python/Flask, MySQL
+- 🎓 Bachelor's in Networks & Telecommunications, ISIG Goma
+- 🌱 Currently digging into cybersecurity, cloud and automation
 
-- 💻 &nbsp;  JavaScript | Java | C# 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP | Flutter | Dart
-- 🛢 &nbsp; MySQL | SQLServer
-- 🔧 &nbsp; Git | GitHub
-- 🖥 &nbsp; ArcGIS | SPSS
-<br/>
+#### Where I've worked
 
-[![Abel bin kandanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abelbinkandanda&_icons=true)](https://github.com/Abelbinkandanda)
+- **MSF France**: national IT & telecoms lead for the DRC mission, 400+ users, IT side of the Ebola response (treatment centres in Goma, Butembo, Beni, Isiro)
+- **Danish Refugee Council**: IT and telecoms for 8 humanitarian bases in North Kivu and Ituri
+- **Vodacom Congo**: 24/7 network supervision at the Goma NOC
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abelbinkandanda&show_icons=true&theme=radical&layout=compact)](https://github.com/Abelbinkandanda/github-readme-stats)
+#### Find me
 
-<h3>🛠 Design</h3>
+[![Portfolio](https://img.shields.io/badge/Portfolio-abelbinkandanda.github.io-E0913A?style=flat-square)](https://abelbinkandanda.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abel%20Ilunga%20Kandanda-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abel-ilunga-kandanda-9581981a6/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b8e703d3ef3a7b47)
+[![Email](https://img.shields.io/badge/Email-ilungakandandaabel%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:ilungakandandaabel@gmail.com)
 
-- Learning at [uptodave](https://uptodatedevelopers.com/)
-
-- 💻 UI/UX Design: Adobe XD
-
-<h3>📞 Call me</h3>
-
-<br/>
-  <a href="https://www.instagram.com/Abelbinkandanda/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Abelbinkandanda__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ilungakandandaabel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ilungakandandaabel@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>&nbsp;&nbsp;
-
-⭐ From [Abelbinkandanda](https://github.com/Abelbinkandanda)
+Languages: French, Swahili, English, Lingala.
